@@ -1,0 +1,59 @@
+.container{
+   
+        width: 40%;
+        height: 40vh;
+        background-color:  red;
+        margin:  auto;
+   
+
+}
+.cont{
+width: 10em;
+height: 30em;
+background-color: #2e5;
+margin:auto;
+
+}
+
+
+html{
+    font-size: 2rem;
+}
+H1{
+font-size: 6em;
+
+}
+.abza{
+font-size: 2pc;
+color: #b30404;
+
+}
+
+.block {
+    background-color: #963b41;
+    color: #2e5; 
+    padding: 30px;
+    margin: 15px;
+    border: 10px solid #6306e4;
+    text-align: center;
+
+}
+
+.Rgb{
+    background-color: rgb(216, 244, 4);
+    color: rgb(241, 5, 115); 
+    padding: 40px;
+    margin: 25px;
+    border: 20px solid rgb(249, 7, 7);
+    text-align: center;
+
+}
+
+.Rgbaa{
+background-color:rgba(0, 128, 128, 0.5) ;
+color: rgba(3, 20, 150, 0.9);
+padding: 35px;
+margin: 25px;
+border: 20px rgb(70, 36, 21);
+text-align: center
+}
